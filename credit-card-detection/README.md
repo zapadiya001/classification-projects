@@ -10,7 +10,7 @@ This project analyzes credit card transaction data using a Jupyter Notebook.
 
 - Data cleaning and preprocessing
 - Data visualization
-- Model building and evaluation (if applicable)
+- Model building and evaluation
 
 ## Requirements
 
