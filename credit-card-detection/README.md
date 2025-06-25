@@ -15,7 +15,7 @@ This project analyzes credit card transaction data using a Jupyter Notebook.
 ## Requirements
 
 Get credit_card.csv:
-[text](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
+[credit_card.csv](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
 
 Install the following Python packages:
 
